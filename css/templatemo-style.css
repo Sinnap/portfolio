@@ -403,7 +403,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-first {
-    background-image: url(../images/placeholder1920x1280.jpg);
+    background-image: url(../images/mainbg.jpg);
   }
 
 
@@ -692,6 +692,10 @@ http://www.templatemo.com/tm-515-eatery
     padding: 0 20px;
     filter: invert(1);
     display: inline;
+  }
+
+  #gitlogo {
+    width: 116px;
   }
 
   /*---------------------------------------
