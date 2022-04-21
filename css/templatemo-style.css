@@ -428,7 +428,9 @@ http://www.templatemo.com/tm-515-eatery
     color: #ffffff;
   }
 
-
+  .item h3{
+    color: #ffffff;
+  }
 
   /*---------------------------------------
       ABOUT              
@@ -697,6 +699,8 @@ http://www.templatemo.com/tm-515-eatery
   #gitlogo {
     width: 116px;
   }
+
+
 
   /*---------------------------------------
       CONTACT             
