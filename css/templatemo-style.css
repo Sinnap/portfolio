@@ -696,6 +696,10 @@ http://www.templatemo.com/tm-515-eatery
     display: inline;
   }
 
+  .icon-mar{
+    margin-top: 14px;
+  }
+
   #gitlogo {
     width: 77px;
     padding-right: 10px !important;
